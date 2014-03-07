@@ -1,0 +1,1 @@
+This is a flat world with just one block height of grass blocks across the whole world.
